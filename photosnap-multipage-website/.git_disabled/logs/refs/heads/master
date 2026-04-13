@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 90495093d24b5784979dd284c53464005c60bcc5 blordeus <imaginedbybryan@gmail.com> 1776090086 -0400	commit (initial): Initial commit from Create Next App
+90495093d24b5784979dd284c53464005c60bcc5 c08453eeea872a46cacdb8b14a258b7324ce9c06 blordeus <imaginedbybryan@gmail.com> 1776094689 -0400	commit: chore: scaffold app structure and shared layout
+c08453eeea872a46cacdb8b14a258b7324ce9c06 838e6732bf1b2bc6d2ca4d3a5d57ece55f532f89 blordeus <imaginedbybryan@gmail.com> 1776095371 -0400	commit: feat: integrate design system, assets, and base typography
+838e6732bf1b2bc6d2ca4d3a5d57ece55f532f89 2cd1fbf5605f437b3f8501b0d297711e356e0a72 blordeus <imaginedbybryan@gmail.com> 1776096182 -0400	commit: feat: organize page assets and add responsive image section data
+2cd1fbf5605f437b3f8501b0d297711e356e0a72 6ad318b0b5f8994e833c9e1c6d4c57307bee55d2 blordeus <imaginedbybryan@gmail.com> 1776096290 -0400	commit: feat: add stories data and reusable story card grid
+6ad318b0b5f8994e833c9e1c6d4c57307bee55d2 1288a88c1b7ef5e35e2de9fd859f4bae98c13a7f blordeus <imaginedbybryan@gmail.com> 1776096479 -0400	commit: refactor: standardize responsive image system across project
+1288a88c1b7ef5e35e2de9fd859f4bae98c13a7f 8612340a825cbbc2fb441cd730d71433df2b9a7f blordeus <imaginedbybryan@gmail.com> 1776096746 -0400	commit: feat: scaffold main pages with reusable section components
+8612340a825cbbc2fb441cd730d71433df2b9a7f b468b5710cac992f5489acec34b39304a8990885 blordeus <imaginedbybryan@gmail.com> 1776101537 -0400	commit: feat: add reusable story card and stories grid
+b468b5710cac992f5489acec34b39304a8990885 db04cf92d0e61623f3dcf5a08ffefa1bfd706aab blordeus <imaginedbybryan@gmail.com> 1776101906 -0400	commit: feat: add stories hero and shared cta banner
