@@ -1,0 +1,8 @@
+# screenshotter — batch URL file
+# Format: one URL per line
+# Add an optional label after a tab character (used for folder names + composite title)
+# Lines starting with # are ignored
+
+# https://bryanlordeus.com	Bryan Lordeus Portfolio
+# https://clientsite.com	Client Name
+# https://anothersite.com
