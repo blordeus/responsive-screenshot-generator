@@ -9,13 +9,12 @@ export default function FeatureGrid({ extended = false }: FeatureGridProps) {
   const items = extended ? features : features.slice(0, 3);
 
   return (
-    <section className="bg-[#f5f5f5] px-8 py-20 md:px-10 md:py-28 lg:px-20 lg:py-36">
+    <section className="bg-[#f5f5f5] px-8 py-20 md:px-10 md:py-28 lg:px-[165px] lg:py-40">
       <div
-        className={`mx-auto grid max-w-[1110px] gap-x-8 gap-y-14 ${
-          extended
-            ? "md:grid-cols-2 lg:grid-cols-3"
-            : "md:grid-cols-3"
-        }`}
+        className={[
+          "mx-auto grid max-w-[1110px] gap-x-[30px] gap-y-14",
+          extended ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-3",
+        ].join(" ")}
       >
         {items.map((feature) => (
           <article
